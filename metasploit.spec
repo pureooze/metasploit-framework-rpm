@@ -1,5 +1,5 @@
 #
-# spec file for package ricochet
+# spec file for package metasploit
 #
 # Copyright (c) 2015 SUSE LINUX GmbH,Nuernberg,Germany.
 #
